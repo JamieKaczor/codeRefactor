@@ -62,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* position of img's in main */
 .float-left {
     float: left;
     margin-right: 25px;
